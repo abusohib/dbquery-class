@@ -1,5 +1,5 @@
 {
-    "name": "abusohib/db-query",
+    "name": "abusohib/abu-dbquery-class",
     "type": "library",
     "description": "Simple scripts to manage database table",
     "keywords": ["db table","simple db query"],
