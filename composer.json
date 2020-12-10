@@ -1,0 +1,16 @@
+{
+    "name": "abusohib/db-query",
+    "type": "library",
+    "description": "Simple scripts to manage database table",
+    "keywords": ["db table","simple db query"],
+    "homepage": "https://kauniaweb.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abu Sohib",
+            "email": "easykotha@gmail.com",
+            "homepage": "https://kauniaweb.com",
+            "role": "Developer"
+        }
+    ],
+}
